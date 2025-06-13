@@ -27,6 +27,9 @@ Integración BDD: Cucumber
 
 Patrón de diseño sugerido: Page Object Model (POM)
 
+_________________________________________________________________________________________
+
+
 🔐 Credenciales de Prueba
 
 Tipo de Usuario	Usuario	Contraseña
@@ -35,7 +38,7 @@ Usuario estándar	standard_user	secret_sauce
 
 Usuario bloqueado	locked_out_user	secret_sauce
 
-
+_________________________________________________________________________________________
 
 🧪 Casos de Prueba Iniciales
 
@@ -49,19 +52,20 @@ Verificar contenido del carrito.
 
 Completar el proceso de compra exitosamente.
 
+_________________________________________________________________________________________
 
 🚀 Ejecución de Pruebas
 
-Clona el repositorio:
+-> Clona el repositorio:
 
 git clone [https://github.com/tu-usuario/sauce-demo-tests.git](https://github.com/JessicaChepe/CucumberJs-SauceDemo.git)
 
 cd CucumberJs-SauceDemo
 
-Instala las dependencias:
+-> Instala las dependencias:
 npm install
 
-Ejecuta las pruebas:
+-> Ejecuta las pruebas:
 npm run test
 
 ![image](https://github.com/user-attachments/assets/51330dfe-871d-4d9a-af87-f7fa08842f99)
