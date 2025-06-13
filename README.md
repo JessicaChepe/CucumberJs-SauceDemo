@@ -1,4 +1,4 @@
-🧪 Suite de Pruebas Automatizadas – Sauce Demo
+🧪 Suite de Pruebas Automatizadas – SauceDemo
 
 📌 Objetivo
 Desarrollar una suite de pruebas automatizadas para la aplicación web Sauce Demo utilizando Playwright junto con Cucumber, aplicando un patrón de diseño adecuado para garantizar la mantenibilidad, escalabilidad y legibilidad del código.
